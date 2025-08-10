@@ -21,7 +21,9 @@ Ideal para reuniones, fiestas o eventos donde se quiera asignar un amigo secreto
 
 📂 Estructura del proyecto
 Challenge-amigo-secreto_esp-main/
+
 │
+
 ├── index.html       # Interfaz principal
 
 ├── app.js           # Lógica del sorteo
